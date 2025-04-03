@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+# Documentation folder
+docs/
+
+# Vector store folder
+vectorstore_faiss/

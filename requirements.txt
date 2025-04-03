@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchainhub
+faiss-cpu
+beautifulsoup4
+duckduckgo-search
+python-dotenv
+unstructured
+markdown
+python-dotenv
