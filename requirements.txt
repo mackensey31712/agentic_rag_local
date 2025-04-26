@@ -9,4 +9,4 @@ duckduckgo-search
 python-dotenv
 unstructured
 markdown
-python-dotenv
+pydantic>=2.7.2
